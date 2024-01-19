@@ -19,3 +19,9 @@ docker buildx build --platform linux/amd64,linux/arm64 --push -t <repo> .
 ```
 
 The steps above will push the image to DockerHub <repo> specified.
+
+To use the image,
+
+1. Install docker, start docker service (if havent)
+2. docker run -it -p 80:80 <repo>
+3. <host-ip>:80 will give you the webpage deployed
