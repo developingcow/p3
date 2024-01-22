@@ -2,6 +2,9 @@ Group Members: Hong
 
 https://github.com/developingcow/p3
 
+![Blank diagram](https://github.com/developingcow/p3/assets/155276353/deabe52b-737f-4182-b00a-2a8faccdf0df)
+
+
 This repo is a simple todoapp with a Dockerfile that builds the project and puts it in container that's runnable
 
 Source for source code: https://github.com/tastejs/todomvc
